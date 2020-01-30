@@ -1,3 +1,0 @@
-n.iter=5000
-    jagsfit.p <- jags.parallel(data=jags.data, inits=jags.inits, jags.params,
-                               n.iter=n.iter, model.file=model.file)
