@@ -1,2 +1,2 @@
 # Python-Data-Manipulation-Snippets
-This repository contains python code snippets for daily usage
+This repository contains code snippets for Python and R
